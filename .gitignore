@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Include nested folders
+
+material/node_modules/
+material/.angular/
+material/.vscode
+
+
+primeng/node_modules/
+primeng/.angular/
+primeng/.vscode
